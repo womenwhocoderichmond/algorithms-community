@@ -1,4 +1,4 @@
-# {Hello AlgorithmsCommunity} 
+# {Hello algorithms-community} 
 
 Welcome to the Repo to hold all things related to our algorithms community! 
 
