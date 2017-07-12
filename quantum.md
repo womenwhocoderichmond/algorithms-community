@@ -8,7 +8,7 @@
 * [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum Teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
 * [First Object Teleported to Space](https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/)
-    * Really, just google 'Quantum Teleportation' because you will find a plethora the recent articles 
+    * Really, just google 'Quantum Teleportation' because you will find a plethora of the recent articles 
 
 
 ## IBM-Q
