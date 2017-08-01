@@ -26,6 +26,12 @@
 * [Qbsolv - Open Source](https://github.com/dwavesystems/qbsolv)
 * [Qbsolve - About](https://www.dwavesys.com/software)
 
+## Examples and Guides
+* [Rock Paper Scissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4)
+* [Battleship](https://medium.com/@decodoku/how-to-program-a-quantum-computer-982a9329ed02)
+	* Or most anything Dr. James Wootton has written
+* [Shor's Algorithm for Factoring](http://projectq.readthedocs.io/en/latest/examples.html#shor-s-algorithm-for-factoring)
+
 ## Fun Links
 * [Stephen Hawking vs Paul Rudd Quantum Chess](https://www.youtube.com/watch?v=Hi0BzqV_b44)
 
