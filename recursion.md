@@ -20,7 +20,7 @@
     - by thenewboston (for my Java peeps)
 - C: http://bit.ly/RecursionWithC
     - 
-    - (this guy is so cute and British...I *had* to include him)
+    - by Computerphile (this guy is so cute and British...I *had* to include him)
 
 ## Courses
 - http://bit.ly/RecursionCoursebyKhanAcademy
