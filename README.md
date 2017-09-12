@@ -9,6 +9,6 @@ All levels are welcome!
 ## Resources:
 * [Past Algorithms Challenges](https://github.com/womenwhocoderichmond/algorithms-community/blob/master/past_challenges.md)
 * [Quantum What?!](https://github.com/womenwhocoderichmond/algorithms-community/blob/master/quantum.md)
-
+* [Re-cur-sion, re-cur, re](https://github.com/womenwhocoderichmond/algorithms-community/blob/master/recursion.md)
 
 
