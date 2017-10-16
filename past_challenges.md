@@ -1,4 +1,17 @@
 # Algorithms Challenges
+#### September 2017 - Recursion
+Goal: Return array containing smallest number of coins to make change for given amount
+
+Input: An integer representing the number of cents
+
+Output: Array where 
+A[0] = pennies
+A[1] = nickels
+A[2] = dimes
+A[3] = quarters
+
+#### July and August 2017 - Quantum What!? and Quantum Pt. 2
+Goal: Dive into the Quantum Gates, and working with Qubits!
 #### June 2017 - MiniMax
 Implement an AI for Tic Tac Toe using MiniMax
 #### May 2017 - Divide & Conquer
