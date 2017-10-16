@@ -1,4 +1,7 @@
 # Algorithms Challenges
+#### October 2017 - BOO-lean Logic: A Spooky Coding Challenge
+Coming Soon!
+
 #### September 2017 - Recursion
 Goal: Return array containing smallest number of coins to make change for given amount
 
@@ -12,8 +15,10 @@ A[3] = quarters
 
 #### July and August 2017 - Quantum What!? and Quantum Pt. 2
 Goal: Dive into the Quantum Gates, and working with Qubits!
+
 #### June 2017 - MiniMax
 Implement an AI for Tic Tac Toe using MiniMax
+
 #### May 2017 - Divide & Conquer
 Goal: Use a divide and conquer algorithm to find the one missing letter in a sequence of otherwise contiguous letters
 
@@ -28,6 +33,7 @@ Goal: Validate a sudoku board
 Input: An array of n arrays, each containing n elements
 
 Output: True if each row, column, and 3x3 square contains the digits 1-9; False otherwise
+
 #### March 2017 - Snail
 Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
