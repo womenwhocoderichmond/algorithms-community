@@ -1,4 +1,8 @@
 # Algorithms Challenges
+
+#### November 2017
+Goal: Using pseudocode, write up the steps to transform a time in digits into the time in words. 
+
 #### October 2017 - BOO-lean Logic: A Spooky Coding Challenge
 #Level 1 - Trick or Treat
 Write a program that displays the numbers 1 to 100. Instead of every multiple of 3, display "Trick". Instead of every multiple of 5, display "Treat". If a number is a multiple of both 3 and 5, display "Trick or Treat".
