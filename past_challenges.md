@@ -1,5 +1,7 @@
 # Algorithms Challenges
 
+#### December 2017
+Coming soon!
 #### November 2017
 Goal: Using pseudocode, write up the steps to transform a time in digits into the time in words. 
 
